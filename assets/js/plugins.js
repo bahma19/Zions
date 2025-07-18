@@ -4423,7 +4423,7 @@ https://github.com/imakewebthings/jquery-waypoints/blob/master/licenses.txt
           transitionProperty: r,
           transitionDuration: this.layout.options.transitionDuration,
         }),
-        this.element.addEventListener(o, this, !1));
+        this.element.addEventListener(o, this, { passive: false }));
     }),
       (g.prototype.transition =
         g.prototype[k ? "_transition" : "_nonTransition"]),
