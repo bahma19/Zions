@@ -12,6 +12,9 @@ body{
     font-size:95%;
 }
 h1{font-size:90%;}
+	.main_slider .main_slider_content h1 {
+    font-size: 6rem;
+  }
 
 .single_pakeg_text ul li {
     background: url(../images/pkli.png) no-repeat left center;
@@ -50,6 +53,9 @@ h1{font-size:90%;}
     top: -78px;
     width: 35%;
 }
+	.main_slider .main_slider_content h1 {
+    font-size: 4rem;
+  }
 	
 .single_monail_apps_text {
     margin-top: 40px;
@@ -90,6 +96,9 @@ h1{font-size:90%;}
     top: -78px;
     width: 35%;
 }
+	.main_slider .main_slider_content h1 {
+    font-size: 2.5rem;
+  }
 	
 .single_monail_apps_text {
     margin-top: 40px;
